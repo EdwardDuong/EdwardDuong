@@ -58,8 +58,8 @@ var me = new Developer {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdwardDuong&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardDuong&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=EdwardDuong&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&cache_seconds=21600" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdwardDuong&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=21600" />
 
 </div>
 
@@ -96,17 +96,17 @@ var me = new Developer {
 <div align="center">
 
 <a href="https://github.com/EdwardDuong/BettingAnalysis">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EdwardDuong&repo=BettingAnalysis&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EdwardDuong&repo=BettingAnalysis&theme=tokyonight&hide_border=true&cache_seconds=21600" />
 </a>
 <a href="https://github.com/EdwardDuong/LinkedIn-Clone">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EdwardDuong&repo=LinkedIn-Clone&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EdwardDuong&repo=LinkedIn-Clone&theme=tokyonight&hide_border=true&cache_seconds=21600" />
 </a>
 
 <a href="https://github.com/EdwardDuong/Ecom-Shop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EdwardDuong&repo=Ecom-Shop&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EdwardDuong&repo=Ecom-Shop&theme=tokyonight&hide_border=true&cache_seconds=21600" />
 </a>
 <a href="https://github.com/EdwardDuong/Personal-Porfolio">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EdwardDuong&repo=Personal-Porfolio&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=EdwardDuong&repo=Personal-Porfolio&theme=tokyonight&hide_border=true&cache_seconds=21600" />
 </a>
 
 </div>
