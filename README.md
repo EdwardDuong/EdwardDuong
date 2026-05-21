@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4&height=220&section=header&text=Thuan%20Duong&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Backend%20Developer&descAlignY=58&descSize=20&descColor=a8b3cf" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4&height=220&section=header&text=Thuan%20Duong&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Backend%20Developer&descAlignY=58&descSize=20&descColor=a8b3cf&v=2" />
 
 <div align="center">
 
@@ -125,4 +125,4 @@ var me = new Developer {
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4&height=120&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,3,4&height=120&section=footer&v=2" />
